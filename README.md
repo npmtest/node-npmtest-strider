@@ -1,4 +1,7 @@
-# test coverage for  [strider (v1.9.6)](https://github.com/Strider-CD/strider#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-strider.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-strider) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-strider.svg)](https://travis-ci.org/npmtest/node-npmtest-strider)
+# npmtest-strider
+
+#### basic test coverage for  [strider (v1.9.6)](https://github.com/Strider-CD/strider#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-strider.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-strider) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-strider.svg)](https://travis-ci.org/npmtest/node-npmtest-strider)
+
 #### Brilliant continuous deployment platform
 
 [![NPM](https://nodei.co/npm/strider.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/strider)
